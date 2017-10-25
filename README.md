@@ -1,0 +1,2 @@
+# jorjin-BLE
+BLE CC2640R2F
